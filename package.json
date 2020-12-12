@@ -1,0 +1,17 @@
+{
+  "name": "express-simple",
+  "version": "0.0.1",
+  "description": "simple express server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hilmi",
+  "license": "ISC",
+  "dependencies": {
+    "epress": "0.0.1-security",
+    "express": "^4.17.1",
+    "password-hash": "^1.2.2"
+  }
+}
